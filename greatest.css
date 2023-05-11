@@ -1,0 +1,26 @@
+.d2{
+    width: 18rem;
+    text-align:center;
+   
+}
+
+@media (min-width:320px) and (max-width:480px)  {
+    .d2{
+        margin-left: 10vw;
+        }
+ }
+@media (min-width:481px) and (max-width:767px)  { 
+    .d2{
+        margin-left: 25vw;
+        }
+}
+@media (min-width:768px) and (max-width:1224px) {
+    .d2{
+        margin-left: 35vw;
+        }
+}
+@media (min-width:1225px){ 
+    .d2{
+    margin-left: 43vw;
+    }
+}
